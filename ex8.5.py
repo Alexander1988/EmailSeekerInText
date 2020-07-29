@@ -1,3 +1,4 @@
+#AlexSorokin exercises
 fname = input("Enter file name: ")#prompt the filename
 #if len(fname) < 1 : fname = "mbox-short.txt"
 fh = open(fname)
