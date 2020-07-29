@@ -1,4 +1,4 @@
-fname = input("Enter file name: ")
+fname = input("Enter file name: ")#prompt the filename
 #if len(fname) < 1 : fname = "mbox-short.txt"
 fh = open(fname)
 count = 0 #counter for lines coutining added
